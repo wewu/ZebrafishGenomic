@@ -1,0 +1,5 @@
+
+browser position chr8:15750682-15827731
+track name=annotation_441 description="annotation for chr8_15750682_15827731_2" visibility=2
+chr8	PP	new_pep	15754340	15754363	0.8713	+	1	new_peptide_DCENMMMC
+chr8	PP	new_pp	15750682	15827731	0.8713	+	1	CHR8_15750682_15827731_2

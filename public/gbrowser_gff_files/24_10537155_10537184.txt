@@ -1,0 +1,5 @@
+
+browser position chr3:10530629-10539843
+track name=annotation_346 description="annotation for chr3_10530629_10539843_2" visibility=2
+chr3	PP	new_pep	10537155	10537184	0.7888	+	1	new_peptide_SAAAYLEASK
+chr3	PP	new_pp	10530629	10539843	0.7888	+	1	CHR3_10530629_10539843_2

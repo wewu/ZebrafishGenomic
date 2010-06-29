@@ -1,0 +1,178 @@
+/* CSS Document */
+
+/*PAGE LAYOUT*/
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font: 0.7em Tahoma, sans-serif;
+	color: #000;
+}
+
+.orangebodytext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 22px;
+	font-weight:bold;
+	color: #FF9900;
+}
+
+.orangemediumtext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 15px;
+	font-weight:bold;
+	color: #FF9900;
+}
+.redmediumtext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 15px;
+	font-weight:bold;
+	color: #C70000;
+}
+
+.smalltext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	color: #666666;
+}
+.smallwhitetext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color: #FFFFFF;
+}
+.smallwhitetext a{
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color: #FFFFFF;
+	text-decoration:none;
+}
+.smallwhitetext a:hover{
+	text-decoration:underline;
+}
+.smallgraytext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color:#CCCCCC;
+}
+.smallgraytext a{
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color:#CCCCCC;
+	text-decoration:none;
+}
+.smallgraytext a:hover{
+	text-decoration:underline;
+}
+.titletext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size:36px;
+	font-weight:bold;
+	color: #CCCCCC;
+}
+.logotext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size:34px;
+	font-weight:bold;
+	color: #999999;
+}
+.orangelogotext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size:36px;
+	font-weight:bold;
+	color:#FF9900;
+}
+.smallorangetext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#FF9900;
+}
+
+.smallorangetext a {
+	font: 0.7em Tahoma, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#FF9900;
+	text-decoration:none;
+}
+
+.smallorangetext a:hover {
+	text-decoration:underline;
+}
+
+.orangetitle {
+	font: 0.7em Tahoma, sans-serif;
+	font-size:24px;
+	font-weight:bold;
+	color:#FF9900;
+}
+
+.biglink a{
+	font: 0.7em Tahoma, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	color:#36c;
+	text-decoration:none;
+}
+.biglink a:hover {
+		text-decoration:underline;
+}
+
+.link a{
+	font: 0.7em Tahoma, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#36c;
+	text-decoration:none;
+}
+.link a:hover {
+		text-decoration:underline;
+}
+
+/* Table :: Column Headers
+   ============================= */
+table {
+	border: medium solid #555
+}
+
+th {
+  border-right: thin solid #555;
+  padding: 3px 6px;
+  background-color: #DDD;
+  text-align: left;
+  color: #000;
+}
+
+td {
+  padding: 3px 6px;
+  text-align: left;
+  color: #000;  
+}
+
+/* Table :: Record Rows
+   ============================= */
+tr td {
+  text-align:left;
+  padding: 5px 4px;
+  font-family: Verdana, sans-serif;
+  font-size: 11px;
+  background-color: #E6F2FF;
+  border-bottom: solid 1px #C5DBF7;
+  border-left: solid 1px #C5DBF7;
+}
+
+tr.even-record td {
+	text-align:left;
+	padding: 5px 4px;
+	color: #333;
+	font-family: Verdana, sans-serif;
+	font-size: 11px;
+	background-color: #FFF;
+	border-bottom: solid 1px #C5DBF7;
+	border-left: solid 1px #C5DBF7;
+}
+

@@ -1,0 +1,5 @@
+
+browser position chr18:21415244-21420234
+track name=annotation_731 description="annotation for chr18_21415244_21420234_1" visibility=2
+chr18	PP	new_pep	21417629	21417661	0.7579	+	0	new_peptide_EAEAAHGTVTR
+chr18	PP	new_pp	21415244	21420234	0.7579	+	0	CHR18_21415244_21420234_1

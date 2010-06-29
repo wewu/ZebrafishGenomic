@@ -1,0 +1,5 @@
+
+browser position chr7:10995954-10998680
+track name=annotation_348 description="annotation for chr7_10995954_10998680_5" visibility=2
+chr7	PP	new_pep	10998443	10998508	0.8836	-	4	new_peptide_MNTLC*FIEAPSNNKKY*CSNK
+chr7	PP	new_pp	10995954	10998680	0.8836	-	4	CHR7_10995954_10998680_5

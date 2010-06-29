@@ -1,0 +1,5 @@
+
+browser position chr7:37397680-37508201
+track name=annotation_13720 description="annotation for chr7_37397680_37508201_4" visibility=2
+chr7	PP	new_pep	37419021	37419053	0.7842	-	3	new_peptide_LPELM*T*SKR
+chr7	PP	new_pp	37397680	37508201	0.7842	-	3	CHR7_37397680_37508201_4

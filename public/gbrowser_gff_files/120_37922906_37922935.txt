@@ -1,0 +1,5 @@
+
+browser position chr19:37909360-38051335
+track name=annotation_382 description="annotation for chr19_37909360_38051335_4" visibility=2
+chr19	PP	new_pep	37922906	37922935	0.8632	-	3	new_peptide_KMPLVLRILR
+chr19	PP	new_pp	37909360	38051335	0.8632	-	3	CHR19_37909360_38051335_4

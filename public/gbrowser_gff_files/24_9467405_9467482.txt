@@ -1,0 +1,5 @@
+
+browser position chr19:9437939-9542773
+track name=annotation_309 description="annotation for chr19_9437939_9542773_4" visibility=2
+chr19	PP	new_pep	9467405	9467482	0.9723	-	3	new_peptide_ECLTCICPDVVSLQSWPAVDLSSYRR
+chr19	PP	new_pp	9437939	9542773	0.9723	-	3	CHR19_9437939_9542773_4

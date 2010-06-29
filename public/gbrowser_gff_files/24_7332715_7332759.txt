@@ -1,0 +1,5 @@
+
+browser position chr10:7326672-7500273
+track name=annotation_242 description="annotation for chr10_7326672_7500273_2" visibility=2
+chr10	PP	new_pep	7332715	7332759	1	+	1	new_peptide_DGTMDPAGTCTTLSR
+chr10	PP	new_pp	7326672	7500273	1	+	1	CHR10_7326672_7500273_2

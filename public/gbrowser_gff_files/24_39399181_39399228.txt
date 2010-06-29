@@ -1,0 +1,5 @@
+
+browser position chr17:39398020-39405573
+track name=annotation_13785 description="annotation for chr17_39398020_39405573_4" visibility=2
+chr17	PP	new_pep	39399181	39399228	0.8171	-	3	new_peptide_FENEMATAASSSSLEK
+chr17	PP	new_pp	39398020	39405573	0.8171	-	3	CHR17_39398020_39405573_4

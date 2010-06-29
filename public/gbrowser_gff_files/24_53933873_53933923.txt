@@ -1,0 +1,5 @@
+
+browser position chr20:53927121-53940426
+track name=annotation_15279 description="annotation for chr20_53927121_53940426_3" visibility=2
+chr20	PP	new_pep	53933873	53933923	0.9268	+	2	new_peptide_CLELFAELAEDKDNYKK
+chr20	PP	new_pp	53927121	53940426	0.9268	+	2	CHR20_53927121_53940426_3

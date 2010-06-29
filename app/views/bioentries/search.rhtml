@@ -1,0 +1,30 @@
+
+<h3>Search Entries </h3>
+<p>Use the text field below to search our sequence annotation.</p>
+
+<p>
+<%= form_tag :controller => "bioentries" , :action => 'goto_content', :id => "query" %>
+   <br/><%= text_area_tag :keywords , "kinase", :size => "25x10" %>
+   <br/><%= submit_tag "Send Query!" %>
+</form>
+</p>
+
+<p>
+<h3> Help </h3>
+   Prepending <font size="+1"><b>"+"</b> </font> or <font size="+1"><b>"-"</b></font> 
+   will require the word to be present or absent, respectively. (e.g.<b> +kinase +inhibitor</b>)
+   
+   <br/>Enclose phrases in double quotes  <font size="+1"><b>"..." </b></font> (e.g. <b>"hypothetical protein"</b>)
+   <br/>Wild-cards are allowed as suffixes using a <font size="+1"><b>"*"</b></font> (e.g. <b>ribo*</b>)
+   <br/>Case does not matter.
+   <br/><b>More Examples:</b> 
+   <ul>
+      <li>A list of IPI accessions</li>
+      <li>A list of other database accessions (GenBank, VEGA, UniGene, UniProt, ENSEMBL, etc.)</li>
+      <li>GO IDs</li>
+      <li>Gene names and abbreviations</li>
+      <li>Functional categories</li>
+   </ul>
+</p>
+<p><em>*Sequence similarity searches are <font color="red" >not</font> available. </em></p><hr/>
+

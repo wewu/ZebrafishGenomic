@@ -1,0 +1,5 @@
+
+browser position chr24:20659011-20691603
+track name=annotation_718 description="annotation for chr24_20659011_20691603_4" visibility=2
+chr24	PP	new_pep	20661601	20661642	1	-	3	new_peptide_PAGQHLNQHIHQPR
+chr24	PP	new_pp	20659011	20691603	1	-	3	CHR24_20659011_20691603_4

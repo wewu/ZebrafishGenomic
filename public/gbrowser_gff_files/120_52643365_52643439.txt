@@ -1,0 +1,5 @@
+
+browser position chr16:52641939-52646686
+track name=annotation_278 description="annotation for chr16_52641939_52646686_5" visibility=2
+chr16	PP	new_pep	52643365	52643439	0.9078	-	4	new_peptide_AESSDVANAVLDGADCVMLSGETAK
+chr16	PP	new_pp	52641939	52646686	0.9078	-	4	CHR16_52641939_52646686_5

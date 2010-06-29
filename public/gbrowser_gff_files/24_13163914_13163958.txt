@@ -1,0 +1,5 @@
+
+browser position chr16:13093064-13170406
+track name=annotation_380 description="annotation for chr16_13093064_13170406_3" visibility=2
+chr16	PP	new_pep	13163914	13163958	0.7858	+	2	new_peptide_KLEQFLSLCADLGAK
+chr16	PP	new_pp	13093064	13170406	0.7858	+	2	CHR16_13093064_13170406_3

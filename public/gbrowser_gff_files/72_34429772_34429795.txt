@@ -1,0 +1,5 @@
+
+browser position chr12:34328893-34432037
+track name=annotation_14 description="annotation for chr12_34328893_34432037_5" visibility=2
+chr12	PP	new_pep	34429772	34429795	0.9893	-	4	new_peptide_SDNNCCCC
+chr12	PP	new_pp	34328893	34432037	0.9893	-	4	CHR12_34328893_34432037_5

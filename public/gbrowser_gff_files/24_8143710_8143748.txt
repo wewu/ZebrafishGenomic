@@ -1,0 +1,5 @@
+
+browser position chr4:8004718-8216074
+track name=annotation_287 description="annotation for chr4_8004718_8216074_3" visibility=2
+chr4	PP	new_pep	8143710	8143748	0.7961	+	2	new_peptide_SPTGLAGELCLLK
+chr4	PP	new_pp	8004718	8216074	0.7961	+	2	CHR4_8004718_8216074_3

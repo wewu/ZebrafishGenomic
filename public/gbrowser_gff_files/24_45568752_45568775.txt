@@ -1,0 +1,5 @@
+
+browser position chr21:45566093-45573402
+track name=annotation_13989 description="annotation for chr21_45566093_45573402_5" visibility=2
+chr21	PP	new_pep	45568752	45568775	0.7551	-	4	new_peptide_EAGPAVER
+chr21	PP	new_pp	45566093	45573402	0.7551	-	4	CHR21_45566093_45573402_5

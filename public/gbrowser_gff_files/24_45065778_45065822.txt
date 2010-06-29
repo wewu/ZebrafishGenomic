@@ -1,0 +1,5 @@
+
+browser position chr23:45063481-45075379
+track name=annotation_13972 description="annotation for chr23_45063481_45075379_3" visibility=2
+chr23	PP	new_pep	45065778	45065822	1	+	2	new_peptide_PSGASTGVHEALELR
+chr23	PP	new_pp	45063481	45075379	1	+	2	CHR23_45063481_45075379_3

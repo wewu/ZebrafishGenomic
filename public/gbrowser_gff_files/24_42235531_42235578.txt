@@ -1,0 +1,5 @@
+
+browser position chr9:42207628-42246146
+track name=annotation_13835 description="annotation for chr9_42207628_42246146_6" visibility=2
+chr9	PP	new_pep	42235531	42235578	0.8462	-	5	new_peptide_QML*PSFPLLFPSYIK
+chr9	PP	new_pp	42207628	42246146	0.8462	-	5	CHR9_42207628_42246146_6

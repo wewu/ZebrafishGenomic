@@ -1,0 +1,5 @@
+
+browser position chr23:7911148-7915045
+track name=annotation_276 description="annotation for chr23_7911148_7915045_1" visibility=2
+chr23	PP	new_pep	7913260	7913286	0.8948	+	0	new_peptide_LVLQIDNAR
+chr23	PP	new_pp	7911148	7915045	0.8948	+	0	CHR23_7911148_7915045_1

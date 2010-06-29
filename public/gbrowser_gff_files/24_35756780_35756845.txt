@@ -1,0 +1,5 @@
+
+browser position chr19:35148100-35869394
+track name=annotation_13683 description="annotation for chr19_35148100_35869394_2" visibility=2
+chr19	PP	new_pep	35756780	35756845	0.9002	+	1	new_peptide_SIFKLIQMYDTHG*FF*MIYFY
+chr19	PP	new_pp	35148100	35869394	0.9002	+	1	CHR19_35148100_35869394_2

@@ -1,0 +1,5 @@
+
+browser position chr21:13419632-13422056
+track name=annotation_413 description="annotation for chr21_13419632_13422056_4" visibility=2
+chr21	PP	new_pep	13420758	13420784	0.9478	-	3	new_peptide_KLLEGEESR
+chr21	PP	new_pp	13419632	13422056	0.9478	-	3	CHR21_13419632_13422056_4

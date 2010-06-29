@@ -1,0 +1,5 @@
+
+browser position chr8:22204650-22207255
+track name=annotation_737 description="annotation for chr8_22204650_22207255_2" visibility=2
+chr8	PP	new_pep	22205512	22205544	1	+	1	new_peptide_*KAYILENMIA
+chr8	PP	new_pp	22204650	22207255	1	+	1	CHR8_22204650_22207255_2

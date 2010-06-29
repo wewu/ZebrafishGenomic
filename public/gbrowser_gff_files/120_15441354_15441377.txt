@@ -1,0 +1,5 @@
+
+browser position chr1:15419944-15443446
+track name=annotation_391 description="annotation for chr1_15419944_15443446_6" visibility=2
+chr1	PP	new_pep	15441354	15441377	1	-	5	new_peptide_KLNA*MSF
+chr1	PP	new_pp	15419944	15443446	1	-	5	CHR1_15419944_15443446_6

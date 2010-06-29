@@ -1,0 +1,5 @@
+
+browser position chr7:25270701-25294661
+track name=annotation_10461 description="annotation for chr7_25270701_25294661_3" visibility=2
+chr7	PP	new_pep	25272326	25272388	0.853	+	2	new_peptide_CFYNANL*CVKNTFIMSLYQK
+chr7	PP	new_pp	25270701	25294661	0.853	+	2	CHR7_25270701_25294661_3

@@ -1,0 +1,5 @@
+
+browser position chr17:18292677-18309278
+track name=annotation_374 description="annotation for chr17_18292677_18309278_6" visibility=2
+chr17	PP	new_pep	18300310	18300330	0.9587	-	5	new_peptide_CCHCCCE
+chr17	PP	new_pp	18292677	18309278	0.9587	-	5	CHR17_18292677_18309278_6

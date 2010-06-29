@@ -1,0 +1,5 @@
+
+browser position chr6:27592978-27609475
+track name=annotation_10528 description="annotation for chr6_27592978_27609475_5" visibility=2
+chr6	PP	new_pep	27601363	27601419	0.9726	-	4	new_peptide_KKMEGDLNEMEIQLSHANR
+chr6	PP	new_pp	27592978	27609475	0.9726	-	4	CHR6_27592978_27609475_5

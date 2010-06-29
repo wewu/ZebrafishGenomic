@@ -1,0 +1,5 @@
+
+browser position chr17:3866134-4078386
+track name=annotation_163 description="annotation for chr17_3866134_4078386_6" visibility=2
+chr17	PP	new_pep	4041476	4041514	0.8246	-	5	new_peptide_KIQEVGK*IILIK
+chr17	PP	new_pp	3866134	4078386	0.8246	-	5	CHR17_3866134_4078386_6

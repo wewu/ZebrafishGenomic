@@ -1,0 +1,5 @@
+
+browser position chr11:26101955-26102164
+track name=annotation_10475 description="annotation for chr11_26101955_26102164_1" visibility=2
+chr11	PP	new_pep	26102069	26102119	0.991	+	0	new_peptide_DDIEMIVSEVGEEANWK
+chr11	PP	new_pp	26101955	26102164	0.991	+	0	CHR11_26101955_26102164_1

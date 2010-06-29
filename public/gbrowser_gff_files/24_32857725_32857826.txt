@@ -1,0 +1,5 @@
+
+browser position chr10:32732635-32866887
+track name=annotation_13537 description="annotation for chr10_32732635_32866887_3" visibility=2
+chr10	PP	new_pep	32857725	32857826	0.8749	+	2	new_peptide_QKCSSPM*LSMSLLYSL*LTHPGHSINNSND*SK
+chr10	PP	new_pp	32732635	32866887	0.8749	+	2	CHR10_32732635_32866887_3

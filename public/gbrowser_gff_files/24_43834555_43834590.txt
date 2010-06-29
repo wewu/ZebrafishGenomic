@@ -1,0 +1,5 @@
+
+browser position chr12:43821472-43843273
+track name=annotation_13893 description="annotation for chr12_43821472_43843273_1" visibility=2
+chr12	PP	new_pep	43834555	43834590	1	+	0	new_peptide_DLMACAQTGSGK
+chr12	PP	new_pp	43821472	43843273	1	+	0	CHR12_43821472_43843273_1

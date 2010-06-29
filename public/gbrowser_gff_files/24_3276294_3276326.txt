@@ -1,0 +1,5 @@
+
+browser position chr15:3274487-3277975
+track name=annotation_137 description="annotation for chr15_3274487_3277975_2" visibility=2
+chr15	PP	new_pep	3276294	3276326	0.8475	+	1	new_peptide_FE*DEN*MTIK
+chr15	PP	new_pp	3274487	3277975	0.8475	+	1	CHR15_3274487_3277975_2

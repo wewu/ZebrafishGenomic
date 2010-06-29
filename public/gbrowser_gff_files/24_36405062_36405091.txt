@@ -1,0 +1,5 @@
+
+browser position chr3:35634035-36435709
+track name=annotation_13708 description="annotation for chr3_35634035_36435709_4" visibility=2
+chr3	PP	new_pep	36405062	36405091	0.8218	-	3	new_peptide_KANTSWCPAK
+chr3	PP	new_pp	35634035	36435709	0.8218	-	3	CHR3_35634035_36435709_4

@@ -1,0 +1,5 @@
+
+browser position chr8:25112075-25120996
+track name=annotation_10456 description="annotation for chr8_25112075_25120996_5" visibility=2
+chr8	PP	new_pep	25114444	25114473	0.9492	-	4	new_peptide_CPFTGNVSIR
+chr8	PP	new_pp	25112075	25120996	0.9492	-	4	CHR8_25112075_25120996_5

@@ -1,0 +1,5 @@
+
+browser position chr16:31445828-31661727
+track name=annotation_13528 description="annotation for chr16_31445828_31661727_6" visibility=2
+chr16	PP	new_pep	31495238	31495282	0.7952	-	5	new_peptide_*KNPN*QF**ILL*K
+chr16	PP	new_pp	31445828	31661727	0.7952	-	5	CHR16_31445828_31661727_6

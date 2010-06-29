@@ -1,0 +1,5 @@
+
+browser position chr18:16145150-16353666
+track name=annotation_550 description="annotation for chr18_16145150_16353666_4" visibility=2
+chr18	PP	new_pep	16194880	16194906	0.9494	-	3	new_peptide_TAGLSGLPK
+chr18	PP	new_pp	16145150	16353666	0.9494	-	3	CHR18_16145150_16353666_4

@@ -1,0 +1,5 @@
+
+browser position chr20:38679206-38702977
+track name=annotation_13738 description="annotation for chr20_38679206_38702977_5" visibility=2
+chr20	PP	new_pep	38697283	38697324	0.7888	-	4	new_peptide_MEMVS*NALESPRR
+chr20	PP	new_pp	38679206	38702977	0.7888	-	4	CHR20_38679206_38702977_5

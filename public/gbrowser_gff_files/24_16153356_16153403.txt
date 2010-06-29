@@ -1,0 +1,5 @@
+
+browser position chr25:16145443-16161315
+track name=annotation_547 description="annotation for chr25_16145443_16161315_5" visibility=2
+chr25	PP	new_pep	16153356	16153403	0.8171	-	4	new_peptide_FENEMATAASSSSLEK
+chr25	PP	new_pp	16145443	16161315	0.8171	-	4	CHR25_16145443_16161315_5

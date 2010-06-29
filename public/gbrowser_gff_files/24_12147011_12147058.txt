@@ -1,0 +1,5 @@
+
+browser position chr16:12105360-12183111
+track name=annotation_363 description="annotation for chr16_12105360_12183111_3" visibility=2
+chr16	PP	new_pep	12147011	12147058	0.8305	+	2	new_peptide_*CVV*FV*FICSGPIK
+chr16	PP	new_pp	12105360	12183111	0.8305	+	2	CHR16_12105360_12183111_3

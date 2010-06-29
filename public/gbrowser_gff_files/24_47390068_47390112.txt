@@ -1,0 +1,5 @@
+
+browser position chr8:47378575-47391580
+track name=annotation_14073 description="annotation for chr8_47378575_47391580_1" visibility=2
+chr8	PP	new_pep	47390068	47390112	0.915	+	0	new_peptide_*LISLP*MTISSAPK
+chr8	PP	new_pp	47378575	47391580	0.915	+	0	CHR8_47378575_47391580_1

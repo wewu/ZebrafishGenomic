@@ -1,0 +1,5 @@
+
+browser position chr21:33885382-33942486
+track name=annotation_13545 description="annotation for chr21_33885382_33942486_4" visibility=2
+chr21	PP	new_pep	33904675	33904698	0.7558	-	3	new_peptide_LGGV*LAR
+chr21	PP	new_pp	33885382	33942486	0.7558	-	3	CHR21_33885382_33942486_4

@@ -1,0 +1,5 @@
+
+browser position chr25:3222164-3228898
+track name=annotation_123 description="annotation for chr25_3222164_3228898_2" visibility=2
+chr25	PP	new_pep	3225327	3225374	0.9979	+	1	new_peptide_LKHYGPGWLSMANAGK
+chr25	PP	new_pp	3222164	3228898	0.9979	+	1	CHR25_3222164_3228898_2

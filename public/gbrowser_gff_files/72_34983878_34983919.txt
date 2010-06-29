@@ -1,0 +1,5 @@
+
+browser position chr12:34939048-35131197
+track name=annotation_15 description="annotation for chr12_34939048_35131197_6" visibility=2
+chr12	PP	new_pep	34983878	34983919	0.8455	-	5	new_peptide_ENYNCAMMNMNCCC
+chr12	PP	new_pp	34939048	35131197	0.8455	-	5	CHR12_34939048_35131197_6

@@ -1,0 +1,5 @@
+
+browser position chr7:57903513-58048593
+track name=annotation_799 description="annotation for chr7_57903513_58048593_5" visibility=2
+chr7	PP	new_pep	57936606	57936644	0.8856	-	4	new_peptide_KVMLM*KLILI*K
+chr7	PP	new_pp	57903513	58048593	0.8856	-	4	CHR7_57903513_58048593_5

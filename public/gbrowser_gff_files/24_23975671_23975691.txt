@@ -1,0 +1,5 @@
+
+browser position chr16:23960309-23986370
+track name=annotation_9797 description="annotation for chr16_23960309_23986370_6" visibility=2
+chr16	PP	new_pep	23975671	23975691	0.769	-	5	new_peptide_YCGALIR
+chr16	PP	new_pp	23960309	23986370	0.769	-	5	CHR16_23960309_23986370_6

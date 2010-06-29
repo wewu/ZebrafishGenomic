@@ -1,0 +1,5 @@
+
+browser position chr18:5316469-5399505
+track name=annotation_378 description="annotation for chr18_5316469_5399505_2" visibility=2
+chr18	PP	new_pep	5384639	5384662	0.9587	+	1	new_peptide_CCHC*CCE
+chr18	PP	new_pp	5316469	5399505	0.9587	+	1	CHR18_5316469_5399505_2

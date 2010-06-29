@@ -1,0 +1,5 @@
+
+browser position chr25:18067469-18100965
+track name=annotation_623 description="annotation for chr25_18067469_18100965_4" visibility=2
+chr25	PP	new_pep	18070018	18070041	0.7594	-	3	new_peptide_KGIHNINK
+chr25	PP	new_pp	18067469	18100965	0.7594	-	3	CHR25_18067469_18100965_4

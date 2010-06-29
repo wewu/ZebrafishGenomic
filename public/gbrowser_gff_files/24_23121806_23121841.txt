@@ -1,0 +1,5 @@
+
+browser position chr22:23118516-23125199
+track name=annotation_4616 description="annotation for chr22_23118516_23125199_5" visibility=2
+chr22	PP	new_pep	23121806	23121841	0.9755	-	4	new_peptide_PTDRPLASAYFK
+chr22	PP	new_pp	23118516	23125199	0.9755	-	4	CHR22_23118516_23125199_5

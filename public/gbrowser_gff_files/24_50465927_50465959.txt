@@ -1,0 +1,5 @@
+
+browser position chr5:50452034-50468340
+track name=annotation_15241 description="annotation for chr5_50452034_50468340_1" visibility=2
+chr5	PP	new_pep	50465927	50465959	0.7883	+	0	new_peptide_VFSKIAA*IMR
+chr5	PP	new_pp	50452034	50468340	0.7883	+	0	CHR5_50452034_50468340_1

@@ -1,0 +1,5 @@
+
+browser position chr2:21467913-21488976
+track name=annotation_733 description="annotation for chr2_21467913_21488976_6" visibility=2
+chr2	PP	new_pep	21471707	21471751	0.8345	-	5	new_peptide_EFVST*G*AN*IVIK
+chr2	PP	new_pp	21467913	21488976	0.8345	-	5	CHR2_21467913_21488976_6

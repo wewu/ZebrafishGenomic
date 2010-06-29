@@ -1,0 +1,5 @@
+
+browser position chr5:27673306-27677444
+track name=annotation_10567 description="annotation for chr5_27673306_27677444_6" visibility=2
+chr5	PP	new_pep	27673687	27673746	0.8414	-	5	new_peptide_LPHDVIDDINSGAVECPTVS
+chr5	PP	new_pp	27673306	27677444	0.8414	-	5	CHR5_27673306_27677444_6

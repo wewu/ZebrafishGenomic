@@ -1,0 +1,5 @@
+
+browser position chr21:18865776-18925743
+track name=annotation_220 description="annotation for chr21_18865776_18925743_2" visibility=2
+chr21	PP	new_pep	18870118	18870144	0.8448	+	1	new_peptide_CVCGCGCGC
+chr21	PP	new_pp	18865776	18925743	0.8448	+	1	CHR21_18865776_18925743_2

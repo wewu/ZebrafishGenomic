@@ -1,0 +1,5 @@
+
+browser position chr20:50014574-50025178
+track name=annotation_15206 description="annotation for chr20_50014574_50025178_4" visibility=2
+chr20	PP	new_pep	50016416	50016448	0.9793	-	3	new_peptide_DNSTMGYMTAK
+chr20	PP	new_pp	50014574	50025178	0.9793	-	3	CHR20_50014574_50025178_4

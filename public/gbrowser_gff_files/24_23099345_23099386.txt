@@ -1,0 +1,5 @@
+
+browser position chr22:23098595-23105620
+track name=annotation_977 description="annotation for chr22_23098595_23105620_4" visibility=2
+chr22	PP	new_pep	23099345	23099386	1	-	3	new_peptide_GKHILTAAYDTGFR
+chr22	PP	new_pp	23098595	23105620	1	-	3	CHR22_23098595_23105620_4

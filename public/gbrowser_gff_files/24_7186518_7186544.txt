@@ -1,0 +1,5 @@
+
+browser position chr23:7154290-7197717
+track name=annotation_239 description="annotation for chr23_7154290_7197717_5" visibility=2
+chr23	PP	new_pep	7186518	7186544	0.7509	-	4	new_peptide_GAGGCCCAR
+chr23	PP	new_pp	7154290	7197717	0.7509	-	4	CHR23_7154290_7197717_5

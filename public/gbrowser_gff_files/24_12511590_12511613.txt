@@ -1,0 +1,5 @@
+
+browser position chr6:12507065-12570106
+track name=annotation_371 description="annotation for chr6_12507065_12570106_6" visibility=2
+chr6	PP	new_pep	12511590	12511613	0.8669	-	5	new_peptide_RNHLIVTK
+chr6	PP	new_pp	12507065	12570106	0.8669	-	5	CHR6_12507065_12570106_6

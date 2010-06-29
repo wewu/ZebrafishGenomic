@@ -1,0 +1,5 @@
+
+browser position chr3:35597039-35599008
+track name=annotation_13677 description="annotation for chr3_35597039_35599008_3" visibility=2
+chr3	PP	new_pep	35598097	35598126	0.9492	+	2	new_peptide_CPFTGNVSIR
+chr3	PP	new_pp	35597039	35599008	0.9492	+	2	CHR3_35597039_35599008_3

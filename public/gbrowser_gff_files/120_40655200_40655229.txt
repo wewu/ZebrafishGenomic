@@ -1,0 +1,5 @@
+
+browser position chr19:40651935-40672710
+track name=annotation_383 description="annotation for chr19_40651935_40672710_4" visibility=2
+chr19	PP	new_pep	40655200	40655229	0.8761	-	3	new_peptide_TDGCHVYLSK
+chr19	PP	new_pp	40651935	40672710	0.8761	-	3	CHR19_40651935_40672710_4

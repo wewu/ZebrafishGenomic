@@ -1,0 +1,5 @@
+
+browser position chr16:8426005-8441428
+track name=annotation_291 description="annotation for chr16_8426005_8441428_4" visibility=2
+chr16	PP	new_pep	8429627	8429710	0.885	-	3	new_peptide_LQQLENGK*IKHLI*TM*MFE*VVEFCK
+chr16	PP	new_pp	8426005	8441428	0.885	-	3	CHR16_8426005_8441428_4

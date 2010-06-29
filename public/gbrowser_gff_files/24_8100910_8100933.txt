@@ -1,0 +1,5 @@
+
+browser position chr17:8060790-8115541
+track name=annotation_286 description="annotation for chr17_8060790_8115541_2" visibility=2
+chr17	PP	new_pep	8100910	8100933	0.7906	+	1	new_peptide_FLNASNKR
+chr17	PP	new_pp	8060790	8115541	0.7906	+	1	CHR17_8060790_8115541_2

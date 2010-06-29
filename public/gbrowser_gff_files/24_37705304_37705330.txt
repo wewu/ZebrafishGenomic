@@ -1,0 +1,5 @@
+
+browser position chr7:37701841-37739036
+track name=annotation_13725 description="annotation for chr7_37701841_37739036_2" visibility=2
+chr7	PP	new_pep	37705304	37705330	0.7727	+	1	new_peptide_VGGCDEVIK
+chr7	PP	new_pp	37701841	37739036	0.7727	+	1	CHR7_37701841_37739036_2

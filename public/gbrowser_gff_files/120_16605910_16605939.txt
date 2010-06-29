@@ -1,0 +1,5 @@
+
+browser position chr24:16587409-16608772
+track name=annotation_500 description="annotation for chr24_16587409_16608772_1" visibility=2
+chr24	PP	new_pep	16605910	16605939	0.9187	+	0	new_peptide_EMSMC*TDGC
+chr24	PP	new_pp	16587409	16608772	0.9187	+	0	CHR24_16587409_16608772_1

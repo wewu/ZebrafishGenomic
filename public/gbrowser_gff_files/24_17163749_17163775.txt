@@ -1,0 +1,5 @@
+
+browser position chr9:17162644-17173231
+track name=annotation_604 description="annotation for chr9_17162644_17173231_4" visibility=2
+chr9	PP	new_pep	17163749	17163775	0.7829	-	3	new_peptide_MFGG*VTSR
+chr9	PP	new_pp	17162644	17173231	0.7829	-	3	CHR9_17162644_17173231_4

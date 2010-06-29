@@ -1,0 +1,5 @@
+
+browser position chr10:24490373-24504283
+track name=annotation_10239 description="annotation for chr10_24490373_24504283_6" visibility=2
+chr10	PP	new_pep	24497856	24497894	0.9675	-	5	new_peptide_DLDAAILVGSMPR
+chr10	PP	new_pp	24490373	24504283	0.9675	-	5	CHR10_24490373_24504283_6

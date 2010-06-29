@@ -1,0 +1,5 @@
+
+browser position chr5:38826723-38836311
+track name=annotation_13757 description="annotation for chr5_38826723_38836311_2" visibility=2
+chr5	PP	new_pep	38829178	38829258	1	+	1	new_peptide_DGSGFLINLIDSPGHVDFSSEVTAALR
+chr5	PP	new_pp	38826723	38836311	1	+	1	CHR5_38826723_38836311_2

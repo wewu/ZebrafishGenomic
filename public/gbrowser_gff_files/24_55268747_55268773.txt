@@ -1,0 +1,5 @@
+
+browser position chr1:55263643-55290182
+track name=annotation_15290 description="annotation for chr1_55263643_55290182_5" visibility=2
+chr1	PP	new_pep	55268747	55268773	0.7726	-	4	new_peptide_KATALKIHR
+chr1	PP	new_pp	55263643	55290182	0.7726	-	4	CHR1_55263643_55290182_5

@@ -1,0 +1,5 @@
+
+browser position chr13:34027907-34071442
+track name=annotation_17 description="annotation for chr13_34027907_34071442_6" visibility=2
+chr13	PP	new_pep	34066512	34066535	0.9807	-	5	new_peptide_EADCCCDC
+chr13	PP	new_pp	34027907	34071442	0.9807	-	5	CHR13_34027907_34071442_6

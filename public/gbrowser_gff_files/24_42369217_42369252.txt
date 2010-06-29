@@ -1,0 +1,5 @@
+
+browser position chr6:42367147-42389395
+track name=annotation_13840 description="annotation for chr6_42367147_42389395_5" visibility=2
+chr6	PP	new_pep	42369217	42369252	0.9859	-	4	new_peptide_MDSTANEIEAVK
+chr6	PP	new_pp	42367147	42389395	0.9859	-	4	CHR6_42367147_42389395_5

@@ -1,0 +1,5 @@
+
+browser position chr7:69223985-69252275
+track name=annotation_18467 description="annotation for chr7_69223985_69252275_3" visibility=2
+chr7	PP	new_pep	69241939	69241962	0.8197	+	2	new_peptide_APVVGVPK
+chr7	PP	new_pp	69223985	69252275	0.8197	+	2	CHR7_69223985_69252275_3

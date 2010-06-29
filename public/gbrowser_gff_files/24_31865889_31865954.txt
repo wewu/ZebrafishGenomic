@@ -1,0 +1,5 @@
+
+browser position chr16:31827236-31918675
+track name=annotation_13532 description="annotation for chr16_31827236_31918675_2" visibility=2
+chr16	PP	new_pep	31865889	31865954	0.809	+	1	new_peptide_SIDAQLYRS*TMQASGDSGKEK
+chr16	PP	new_pp	31827236	31918675	0.809	+	1	CHR16_31827236_31918675_2

@@ -1,0 +1,5 @@
+
+browser position chr20:9595963-9605331
+track name=annotation_310 description="annotation for chr20_9595963_9605331_3" visibility=2
+chr20	PP	new_pep	9601725	9601772	0.8171	+	2	new_peptide_FENEMATAASSSSLEK
+chr20	PP	new_pp	9595963	9605331	0.8171	+	2	CHR20_9595963_9605331_3

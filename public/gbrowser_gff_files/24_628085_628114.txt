@@ -1,0 +1,5 @@
+
+browser position chr18:612459-691706
+track name=annotation_3 description="annotation for chr18_612459_691706_3" visibility=2
+chr18	PP	new_pep	628085	628114	0.826	+	2	new_peptide_*NIIELNQVK
+chr18	PP	new_pp	612459	691706	0.826	+	2	CHR18_612459_691706_3

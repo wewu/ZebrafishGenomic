@@ -1,0 +1,5 @@
+
+browser position chr2:15601940-15661846
+track name=annotation_523 description="annotation for chr2_15601940_15661846_2" visibility=2
+chr2	PP	new_pep	15606594	15606635	0.8487	+	1	new_peptide_LFHA*QHINTIKKK
+chr2	PP	new_pp	15601940	15661846	0.8487	+	1	CHR2_15601940_15661846_2

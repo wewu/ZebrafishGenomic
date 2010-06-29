@@ -1,0 +1,5 @@
+
+browser position chr17:9283278-9612666
+track name=annotation_307 description="annotation for chr17_9283278_9612666_1" visibility=2
+chr17	PP	new_pep	9294564	9294587	0.768	+	0	new_peptide_ESSASVFR
+chr17	PP	new_pp	9283278	9612666	0.768	+	0	CHR17_9283278_9612666_1

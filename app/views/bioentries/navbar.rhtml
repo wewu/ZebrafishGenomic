@@ -1,0 +1,10 @@
+<body bgcolor="lightblue">
+<table border=0>
+   <tr><td>                    <a href="<%= url_for :controller => 'bioentries', :action => 'goto_content', :id => "intro",        :curpage => 0%>"   target="contentframe">Introduction </td></tr>
+   <tr><td>                    <a href="<%= url_for :controller => 'bioentries', :action => 'goto_content', :id => "proteinintro", :curpage => 0%>"   target="contentframe">Protein Identification </td></tr>
+   <tr><td nowrap>&nbsp;--&nbsp;<a href="<%= url_for :controller => 'bioentries', :action => 'goto_content', :id => "lcms",         :curpage => 0%>"   target="contentframe">IPI DB Search Results</td></tr>
+   <tr><td nowrap>&nbsp;--&nbsp;<a href="<%= url_for :controller => 'bioentries', :action => 'goto_content', :id => "peptide",      :curpage => 0%>"   target="contentframe">Genomic DB Search Results</td></tr>
+   <tr><td>                    <a href="<%= url_for :controller => 'bioentries', :action => 'goto_content', :id => "search",       :curpage => 0%>"   target="contentframe">Search</td></tr>
+   <tr><td>                    <a href="<%= url_for :controller => 'bioentries', :action => 'goto_content', :id => "download",     :curpage => 0%>"   target="contentframe">Download</td></tr>
+</table>
+</body>

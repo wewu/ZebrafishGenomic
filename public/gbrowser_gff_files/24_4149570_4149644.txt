@@ -1,0 +1,5 @@
+
+browser position chr4:4140042-4155520
+track name=annotation_170 description="annotation for chr4_4140042_4155520_1" visibility=2
+chr4	PP	new_pep	4149570	4149644	0.8289	+	0	new_peptide_HC*IVALTGT*GVEMP*KQLLLQMR
+chr4	PP	new_pp	4140042	4155520	0.8289	+	0	CHR4_4140042_4155520_1

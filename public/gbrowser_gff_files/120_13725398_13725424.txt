@@ -1,0 +1,5 @@
+
+browser position chr22:13637906-13746039
+track name=annotation_491 description="annotation for chr22_13637906_13746039_6" visibility=2
+chr22	PP	new_pep	13725398	13725424	0.9567	-	5	new_peptide_DCCCCMMMA
+chr22	PP	new_pp	13637906	13746039	0.9567	-	5	CHR22_13637906_13746039_6

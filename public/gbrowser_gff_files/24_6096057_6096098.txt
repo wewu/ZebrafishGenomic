@@ -1,0 +1,5 @@
+
+browser position chr5:6038176-6097760
+track name=annotation_209 description="annotation for chr5_6038176_6097760_4" visibility=2
+chr5	PP	new_pep	6096057	6096098	0.8492	-	3	new_peptide_LVCLELSVACHWLK
+chr5	PP	new_pp	6038176	6097760	0.8492	-	3	CHR5_6038176_6097760_4

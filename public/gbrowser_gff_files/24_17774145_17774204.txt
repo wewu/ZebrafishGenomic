@@ -1,0 +1,5 @@
+
+browser position chr2:17756055-17780403
+track name=annotation_610 description="annotation for chr2_17756055_17780403_5" visibility=2
+chr2	PP	new_pep	17774145	17774204	0.9176	-	4	new_peptide_AGITVHTHISFVVTFLCKKK
+chr2	PP	new_pp	17756055	17780403	0.9176	-	4	CHR2_17756055_17780403_5

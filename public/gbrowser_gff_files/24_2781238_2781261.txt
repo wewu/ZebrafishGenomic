@@ -1,0 +1,5 @@
+
+browser position chr22:2774344-2797721
+track name=annotation_113 description="annotation for chr22_2774344_2797721_1" visibility=2
+chr22	PP	new_pep	2781238	2781261	0.8197	+	0	new_peptide_APVVGVPK
+chr22	PP	new_pp	2774344	2797721	0.8197	+	0	CHR22_2774344_2797721_1

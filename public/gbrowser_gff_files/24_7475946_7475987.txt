@@ -1,0 +1,5 @@
+
+browser position chr9:7423592-7543003
+track name=annotation_247 description="annotation for chr9_7423592_7543003_2" visibility=2
+chr9	PP	new_pep	7475946	7475987	0.9685	+	1	new_peptide_FMSTALLEILLAGK
+chr9	PP	new_pp	7423592	7543003	0.9685	+	1	CHR9_7423592_7543003_2

@@ -1,0 +1,5 @@
+
+browser position chr9:34805189-34828016
+track name=annotation_994 description="annotation for chr9_34805189_34828016_5" visibility=2
+chr9	PP	new_pep	34808930	34808950	1	-	4	new_peptide_KLNAMSF
+chr9	PP	new_pp	34805189	34828016	1	-	4	CHR9_34805189_34828016_5

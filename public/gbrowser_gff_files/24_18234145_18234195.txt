@@ -1,0 +1,5 @@
+
+browser position chr11:18127170-18285153
+track name=annotation_629 description="annotation for chr11_18127170_18285153_2" visibility=2
+chr11	PP	new_pep	18234145	18234195	0.8365	+	1	new_peptide_K*STSTAVSPKPVYAAK
+chr11	PP	new_pp	18127170	18285153	0.8365	+	1	CHR11_18127170_18285153_2

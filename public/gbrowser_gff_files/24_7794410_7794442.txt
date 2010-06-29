@@ -1,0 +1,5 @@
+
+browser position chr17:7724117-7887423
+track name=annotation_275 description="annotation for chr17_7724117_7887423_6" visibility=2
+chr17	PP	new_pep	7794410	7794442	0.7879	-	5	new_peptide_QA*QAPTTMPR
+chr17	PP	new_pp	7724117	7887423	0.7879	-	5	CHR17_7724117_7887423_6

@@ -1,0 +1,5 @@
+
+browser position chr17:29946069-30000263
+track name=annotation_10632 description="annotation for chr17_29946069_30000263_2" visibility=2
+chr17	PP	new_pep	29984395	29984436	0.801	+	1	new_peptide_CVINMLN*YAGIDK
+chr17	PP	new_pp	29946069	30000263	0.801	+	1	CHR17_29946069_30000263_2

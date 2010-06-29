@@ -1,0 +1,5 @@
+
+browser position chr17:28733521-28759146
+track name=annotation_10596 description="annotation for chr17_28733521_28759146_6" visibility=2
+chr17	PP	new_pep	28750130	28750186	0.7899	-	5	new_peptide_SSHLADD***SVFGMLPRK
+chr17	PP	new_pp	28733521	28759146	0.7899	-	5	CHR17_28733521_28759146_6

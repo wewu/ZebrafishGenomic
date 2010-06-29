@@ -1,0 +1,5 @@
+
+browser position chr21:15535809-15591379
+track name=annotation_522 description="annotation for chr21_15535809_15591379_6" visibility=2
+chr21	PP	new_pep	15568026	15568061	0.8064	-	5	new_peptide_HNILKP*TCQAK
+chr21	PP	new_pp	15535809	15591379	0.8064	-	5	CHR21_15535809_15591379_6

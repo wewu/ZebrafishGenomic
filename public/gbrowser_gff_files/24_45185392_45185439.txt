@@ -1,0 +1,5 @@
+
+browser position chr19:45178402-45190516
+track name=annotation_13984 description="annotation for chr19_45178402_45190516_5" visibility=2
+chr19	PP	new_pep	45185392	45185439	0.9922	-	4	new_peptide_GALQYLVPILTQTLTK
+chr19	PP	new_pp	45178402	45190516	0.9922	-	4	CHR19_45178402_45190516_5

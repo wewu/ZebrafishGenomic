@@ -1,0 +1,5 @@
+
+browser position chr10:28136777-28163084
+track name=annotation_6 description="annotation for chr10_28136777_28163084_2" visibility=2
+chr10	PP	new_pep	28142037	28142084	0.9942	+	1	new_peptide_CSHC*TESH*MNCECC
+chr10	PP	new_pp	28136777	28163084	0.9942	+	1	CHR10_28136777_28163084_2

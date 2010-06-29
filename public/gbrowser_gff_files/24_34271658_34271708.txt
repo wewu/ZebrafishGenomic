@@ -1,0 +1,5 @@
+
+browser position chr4:34265943-34276167
+track name=annotation_13559 description="annotation for chr4_34265943_34276167_5" visibility=2
+chr4	PP	new_pep	34271658	34271708	0.9981	-	4	new_peptide_VFGIHYGSGHLLGVMAR
+chr4	PP	new_pp	34265943	34276167	0.9981	-	4	CHR4_34265943_34276167_5

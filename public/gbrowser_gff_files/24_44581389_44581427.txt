@@ -1,0 +1,5 @@
+
+browser position chr6:44479906-44626660
+track name=annotation_13963 description="annotation for chr6_44479906_44626660_3" visibility=2
+chr6	PP	new_pep	44581389	44581427	1	+	2	new_peptide_GVSKPFHTV*GKN
+chr6	PP	new_pp	44479906	44626660	1	+	2	CHR6_44479906_44626660_3

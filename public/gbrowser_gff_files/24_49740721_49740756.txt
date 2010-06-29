@@ -1,0 +1,5 @@
+
+browser position chr17:49729163-49765679
+track name=annotation_15203 description="annotation for chr17_49729163_49765679_6" visibility=2
+chr17	PP	new_pep	49740721	49740756	0.9947	-	5	new_peptide_RKPDTIEVQQMK
+chr17	PP	new_pp	49729163	49765679	0.9947	-	5	CHR17_49729163_49765679_6

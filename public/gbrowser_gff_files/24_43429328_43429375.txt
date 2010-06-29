@@ -1,0 +1,5 @@
+
+browser position chr8:43425693-43433862
+track name=annotation_13887 description="annotation for chr8_43425693_43433862_6" visibility=2
+chr8	PP	new_pep	43429328	43429375	0.9921	-	5	new_peptide_EGAESAPEGEMQQQQR
+chr8	PP	new_pp	43425693	43433862	0.9921	-	5	CHR8_43425693_43433862_6

@@ -1,0 +1,5 @@
+
+browser position chr18:15326002-15343771
+track name=annotation_520 description="annotation for chr18_15326002_15343771_6" visibility=2
+chr18	PP	new_pep	15335691	15335771	1	-	5	new_peptide_TFCPPSSLQRLRMGTLPVHLVGATPSL
+chr18	PP	new_pp	15326002	15343771	1	-	5	CHR18_15326002_15343771_6

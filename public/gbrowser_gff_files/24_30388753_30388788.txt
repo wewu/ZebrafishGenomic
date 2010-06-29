@@ -1,0 +1,5 @@
+
+browser position chr2:30322086-30420581
+track name=annotation_10638 description="annotation for chr2_30322086_30420581_6" visibility=2
+chr2	PP	new_pep	30388753	30388788	0.7782	-	5	new_peptide_IPLQIINIK**K
+chr2	PP	new_pp	30322086	30420581	0.7782	-	5	CHR2_30322086_30420581_6

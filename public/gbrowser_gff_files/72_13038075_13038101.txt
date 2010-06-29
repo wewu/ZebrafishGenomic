@@ -1,0 +1,5 @@
+
+browser position chr17:13023090-13055051
+track name=annotation_169 description="annotation for chr17_13023090_13055051_1" visibility=2
+chr17	PP	new_pep	13038075	13038101	0.8448	+	0	new_peptide_CVCGCGCGC
+chr17	PP	new_pp	13023090	13055051	0.8448	+	0	CHR17_13023090_13055051_1

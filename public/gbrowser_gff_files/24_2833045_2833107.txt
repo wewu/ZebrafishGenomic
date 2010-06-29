@@ -1,0 +1,5 @@
+
+browser position chr19:2832099-2834139
+track name=annotation_116 description="annotation for chr19_2832099_2834139_4" visibility=2
+chr19	PP	new_pep	2833045	2833107	0.9636	-	3	new_peptide_TQMGGQVNVEVDAAPQEDLTK
+chr19	PP	new_pp	2832099	2834139	0.9636	-	3	CHR19_2832099_2834139_4

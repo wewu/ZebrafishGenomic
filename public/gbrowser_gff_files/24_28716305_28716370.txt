@@ -1,0 +1,5 @@
+
+browser position chr10:28711411-28719224
+track name=annotation_10595 description="annotation for chr10_28711411_28719224_2" visibility=2
+chr10	PP	new_pep	28716305	28716370	0.7824	+	1	new_peptide_NPSYMVIYCSINVIF*NASFLR
+chr10	PP	new_pp	28711411	28719224	0.7824	+	1	CHR10_28711411_28719224_2

@@ -1,0 +1,5 @@
+
+browser position chr1:55598802-55604596
+track name=annotation_15295 description="annotation for chr1_55598802_55604596_6" visibility=2
+chr1	PP	new_pep	55600713	55600742	0.8036	-	5	new_peptide_PGLTDSTVPR
+chr1	PP	new_pp	55598802	55604596	0.8036	-	5	CHR1_55598802_55604596_6

@@ -1,0 +1,5 @@
+
+browser position chr15:6965217-6993210
+track name=annotation_235 description="annotation for chr15_6965217_6993210_6" visibility=2
+chr15	PP	new_pep	6968651	6968674	0.856	-	5	new_peptide_KYV*SDIK
+chr15	PP	new_pp	6965217	6993210	0.856	-	5	CHR15_6965217_6993210_6

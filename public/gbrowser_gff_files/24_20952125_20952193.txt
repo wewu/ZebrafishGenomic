@@ -1,0 +1,5 @@
+
+browser position chr3:20944178-20961683
+track name=annotation_725 description="annotation for chr3_20944178_20961683_1" visibility=2
+chr3	PP	new_pep	20952125	20952193	0.8845	+	0	new_peptide_YQSNPKIMALINKLSSKFAGPQP
+chr3	PP	new_pp	20944178	20961683	0.8845	+	0	CHR3_20944178_20961683_1

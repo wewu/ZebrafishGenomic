@@ -1,0 +1,5 @@
+
+browser position chr3:29536825-29548750
+track name=annotation_10601 description="annotation for chr3_29536825_29548750_5" visibility=2
+chr3	PP	new_pep	29542162	29542188	0.9478	-	4	new_peptide_KLLEGEESR
+chr3	PP	new_pp	29536825	29548750	0.9478	-	4	CHR3_29536825_29548750_5

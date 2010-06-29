@@ -1,0 +1,5 @@
+
+browser position chr11:26095148-26095337
+track name=annotation_10470 description="annotation for chr11_26095148_26095337_1" visibility=2
+chr11	PP	new_pep	26095217	26095258	0.8146	+	0	new_peptide_SWHWTKPHLVYEAR
+chr11	PP	new_pp	26095148	26095337	0.8146	+	0	CHR11_26095148_26095337_1

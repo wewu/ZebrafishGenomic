@@ -1,0 +1,5 @@
+
+browser position chr21:11460863-11478007
+track name=annotation_487 description="annotation for chr21_11460863_11478007_1" visibility=2
+chr21	PP	new_pep	11472881	11472922	0.794	+	0	new_peptide_ALMMMPL*LKIPVR
+chr21	PP	new_pp	11460863	11478007	0.794	+	0	CHR21_11460863_11478007_1

@@ -1,0 +1,5 @@
+
+browser position chr13:52423685-52473455
+track name=annotation_21 description="annotation for chr13_52423685_52473455_5" visibility=2
+chr13	PP	new_pep	52431461	52431502	0.8193	-	4	new_peptide_LNMNVEL*AYISSK
+chr13	PP	new_pp	52423685	52473455	0.8193	-	4	CHR13_52423685_52473455_5

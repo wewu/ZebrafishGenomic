@@ -1,0 +1,5 @@
+
+browser position chr12:11633585-11646326
+track name=annotation_356 description="annotation for chr12_11633585_11646326_6" visibility=2
+chr12	PP	new_pep	11635135	11635182	0.8171	-	5	new_peptide_FENEMATAASSSSLEK
+chr12	PP	new_pp	11633585	11646326	0.8171	-	5	CHR12_11633585_11646326_6

@@ -1,0 +1,5 @@
+
+browser position chr14:26729770-26827327
+track name=annotation_10518 description="annotation for chr14_26729770_26827327_1" visibility=2
+chr14	PP	new_pep	26738938	26739003	0.9404	+	0	new_peptide_RVDG*LGMESCGGYA*MTA*GK
+chr14	PP	new_pp	26729770	26827327	0.9404	+	0	CHR14_26729770_26827327_1

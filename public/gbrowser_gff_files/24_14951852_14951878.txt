@@ -1,0 +1,5 @@
+
+browser position chr11:14949112-14962240
+track name=annotation_510 description="annotation for chr11_14949112_14962240_4" visibility=2
+chr11	PP	new_pep	14951852	14951878	0.9478	-	3	new_peptide_KLLEGEESR
+chr11	PP	new_pp	14949112	14962240	0.9478	-	3	CHR11_14949112_14962240_4

@@ -1,0 +1,5 @@
+
+browser position chr2:21309129-21465962
+track name=annotation_518 description="annotation for chr2_21309129_21465962_6" visibility=2
+chr2	PP	new_pep	21434746	21434766	0.9759	-	5	new_peptide_ESCCCCC
+chr2	PP	new_pp	21309129	21465962	0.9759	-	5	CHR2_21309129_21465962_6

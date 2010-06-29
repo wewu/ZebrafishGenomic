@@ -1,0 +1,5 @@
+
+browser position chr22:23118516-23125199
+track name=annotation_4407 description="annotation for chr22_23118516_23125199_6" visibility=2
+chr22	PP	new_pep	23120920	23120961	0.7549	-	5	new_peptide_VEALPVELPEHIAS
+chr22	PP	new_pp	23118516	23125199	0.7549	-	5	CHR22_23118516_23125199_6

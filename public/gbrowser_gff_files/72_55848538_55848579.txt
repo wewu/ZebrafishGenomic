@@ -1,0 +1,5 @@
+
+browser position chr20:55832488-55878738
+track name=annotation_175 description="annotation for chr20_55832488_55878738_4" visibility=2
+chr20	PP	new_pep	55848538	55848579	0.8193	-	3	new_peptide_LNMNVEL*AYISSK
+chr20	PP	new_pp	55832488	55878738	0.8193	-	3	CHR20_55832488_55878738_4

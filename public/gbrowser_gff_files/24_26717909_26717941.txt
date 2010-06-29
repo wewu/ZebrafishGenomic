@@ -1,0 +1,5 @@
+
+browser position chr23:26691282-26825207
+track name=annotation_10517 description="annotation for chr23_26691282_26825207_3" visibility=2
+chr23	PP	new_pep	26717909	26717941	0.7449	+	2	new_peptide_KTGIAHMSLLK
+chr23	PP	new_pp	26691282	26825207	0.7449	+	2	CHR23_26691282_26825207_3

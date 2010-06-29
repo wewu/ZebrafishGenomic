@@ -1,0 +1,16 @@
+<% hlib = HtmlLib.new %>
+
+<div id="summary">
+	<!-- General protein information -->
+	<p>
+		<font size="+2"><b><%= link_to(@bioentry.accession,(@bioentry.biodatabase.authority + @bioentry.accession)) %></b></font>
+		<font size="+1"><br/><%= @bioentry.description %></font>
+	</p>
+</div>
+<hr>
+
+<div id="xref"> 	 <% hlib.xref_table(@bioentry.dbxrefs) %>   </div>
+<div id="uniprot">   <%= hlib.uniprot_table(@bioentry.bioentry_record.record) %> </div>
+
+
+  

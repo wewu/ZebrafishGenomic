@@ -1,0 +1,5 @@
+
+browser position chr1:50722795-50784399
+track name=annotation_15242 description="annotation for chr1_50722795_50784399_5" visibility=2
+chr1	PP	new_pep	50745651	50745692	0.8896	-	4	new_peptide_FVALIILQ*CIK*R
+chr1	PP	new_pp	50722795	50784399	0.8896	-	4	CHR1_50722795_50784399_5

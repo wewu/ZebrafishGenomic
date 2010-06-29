@@ -1,0 +1,5 @@
+
+browser position chr24:35215139-35231961
+track name=annotation_13592 description="annotation for chr24_35215139_35231961_2" visibility=2
+chr24	PP	new_pep	35222301	35222357	1	+	1	new_peptide_LQQFFNHHMFVLEQEEYKK
+chr24	PP	new_pp	35215139	35231961	1	+	1	CHR24_35215139_35231961_2

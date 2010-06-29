@@ -1,0 +1,5 @@
+
+browser position chr10:5506186-5629075
+track name=annotation_205 description="annotation for chr10_5506186_5629075_4" visibility=2
+chr10	PP	new_pep	5617709	5617732	0.7828	-	3	new_peptide_VAYVFNDK
+chr10	PP	new_pp	5506186	5629075	0.7828	-	3	CHR10_5506186_5629075_4

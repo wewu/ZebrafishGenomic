@@ -1,0 +1,5 @@
+
+browser position chr7:55754591-55769812
+track name=annotation_15298 description="annotation for chr7_55754591_55769812_3" visibility=2
+chr7	PP	new_pep	55756951	55756977	0.7893	+	2	new_peptide_RCSSVLE*K
+chr7	PP	new_pp	55754591	55769812	0.7893	+	2	CHR7_55754591_55769812_3

@@ -1,0 +1,5 @@
+
+browser position chr19:10802388-10845549
+track name=annotation_380 description="annotation for chr19_10802388_10845549_2" visibility=2
+chr19	PP	new_pep	10820305	10820325	0.9759	+	1	new_peptide_ESCCCCC
+chr19	PP	new_pp	10802388	10845549	0.9759	+	1	CHR19_10802388_10845549_2

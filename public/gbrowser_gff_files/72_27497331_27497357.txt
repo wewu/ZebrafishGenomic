@@ -1,0 +1,5 @@
+
+browser position chr10:27467157-27554082
+track name=annotation_10 description="annotation for chr10_27467157_27554082_1" visibility=2
+chr10	PP	new_pep	27497331	27497357	0.8448	+	0	new_peptide_CVCGCGCGC
+chr10	PP	new_pp	27467157	27554082	0.8448	+	0	CHR10_27467157_27554082_1

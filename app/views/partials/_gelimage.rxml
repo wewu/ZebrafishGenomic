@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg direction="rtl" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"  width="600" height="471" >
+<% scale_x = 600.to_f / GEL_WIDTH.to_f %>
+<% scale_y = 471.to_f / GEL_HEIGHT.to_f %>
+
+<g id="master_gel" >
+  <image xlink:href="<%=GEL_MSTR_URI%>" width="600" height="471" />
+  <g id="spots" transform="scale(<%=scale_x%>, <%=scale_y%>)"  >
+    <% for spot in @bioentry.digeresults %>
+      <% if spot.xcoor > 0 %>
+        <% ry = (spot.radius.to_f * spot.circ.to_f).to_i %>
+        <% color = "" %>
+        <% if (spot.fold_change < 0 ) %>
+          <% color =  "red" %>
+        <% else %>
+          <% color =  "green" %>
+        <%end%>
+        <g id="s<%=spot.id%>" > 
+          <ellipse cx="<%=spot.xcoor%>" cy="<%=spot.ycoor%>" rx="<%=spot.radius%>" ry="<%=ry%>" stroke="<%=color%>" fill="none" /> 
+        </g>
+      <%end%>
+    <%end%>
+  </g>
+</g>
+
+<g id="cy3_gel" >
+  <image xlink:href="<%=GEL_3D_URI%>" width="600" height="471" />
+  <g id="spots" transform="scale(<%=scale_x%>, <%=scale_y%>)"  >
+    <% for spot in @bioentry.digeresults %>
+      <% if spot.hpf == 72 %>
+        <% if spot.xcoor > 0 %>
+          <% ry = (spot.radius.to_f * spot.circ.to_f).to_i %>
+          <% color = "" %>
+          <% if (spot.fold_change < 0 ) %>
+            <% color =  "red" %>
+          <% else %>
+            <% color =  "green" %>
+          <%end%>
+          <g id="s<%=spot.id%>" > 
+            <ellipse cx="<%=spot.xcoor%>" cy="<%=spot.ycoor%>" rx="<%=spot.radius%>" ry="<%=ry%>" stroke="<%=color%>" fill="none" /> 
+          </g>
+        <%end%>
+      <%end%> 
+    <%end%>
+  </g>
+</g>
+
+<g id="cy5_gel" >
+  <image xlink:href="<%=GEL_5D_URI%>" width="600" height="471" />
+  <g id="spots" transform="scale(<%=scale_x%>, <%=scale_y%>)"  >
+    <% for spot in @bioentry.digeresults %>
+      <% if spot.hpf == 120 %>
+        <% if spot.xcoor > 0 %>
+          <% ry = (spot.radius.to_f * spot.circ.to_f).to_i %>
+          <% color = "" %>
+          <% if (spot.fold_change < 0 ) %>
+            <% color =  "red" %>
+          <% else %>
+            <% color =  "green" %>
+          <%end%>
+          <g id="s<%=spot.id%>" > 
+            <ellipse cx="<%=spot.xcoor%>" cy="<%=spot.ycoor%>" rx="<%=spot.radius%>" ry="<%=ry%>" stroke="<%=color%>" fill="none" /> 
+          </g>
+        <%end%>
+      <%end%> 
+    <%end%>
+  </g>
+</g>
+
+</svg>

@@ -1,0 +1,5 @@
+
+browser position chr21:20066126-20151554
+track name=annotation_709 description="annotation for chr21_20066126_20151554_1" visibility=2
+chr21	PP	new_pep	20126672	20126719	0.8421	+	0	new_peptide_QPQGDKAGMDQRQAAR
+chr21	PP	new_pp	20066126	20151554	0.8421	+	0	CHR21_20066126_20151554_1

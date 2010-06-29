@@ -1,0 +1,5 @@
+
+browser position chr20:22820696-23038571
+track name=annotation_956 description="annotation for chr20_22820696_23038571_2" visibility=2
+chr20	PP	new_pep	22932372	22932404	0.8031	+	1	new_peptide_KGQTGVFGKFK
+chr20	PP	new_pp	22820696	23038571	0.8031	+	1	CHR20_22820696_23038571_2

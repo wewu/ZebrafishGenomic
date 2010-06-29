@@ -1,0 +1,5 @@
+
+browser position chr7:8283502-8330828
+track name=annotation_396 description="annotation for chr7_8283502_8330828_2" visibility=2
+chr7	PP	new_pep	8298146	8298187	0.8193	+	1	new_peptide_LNMNVEL*AYISSK
+chr7	PP	new_pp	8283502	8330828	0.8193	+	1	CHR7_8283502_8330828_2

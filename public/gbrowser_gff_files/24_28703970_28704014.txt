@@ -1,0 +1,5 @@
+
+browser position chr20:28608204-28750272
+track name=annotation_10594 description="annotation for chr20_28608204_28750272_1" visibility=2
+chr20	PP	new_pep	28703970	28704014	0.9779	+	0	new_peptide_RAEAITARDSQAPHR
+chr20	PP	new_pp	28608204	28750272	0.9779	+	0	CHR20_28608204_28750272_1

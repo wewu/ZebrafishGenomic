@@ -1,0 +1,5 @@
+
+browser position chr11:1837308-1843440
+track name=annotation_85 description="annotation for chr11_1837308_1843440_6" visibility=2
+chr11	PP	new_pep	1838663	1838701	0.9972	-	5	new_peptide_CGEIGHVAVQCSK
+chr11	PP	new_pp	1837308	1843440	0.9972	-	5	CHR11_1837308_1843440_6

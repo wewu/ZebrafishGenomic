@@ -1,0 +1,5 @@
+
+browser position chr17:38815803-38858176
+track name=annotation_13775 description="annotation for chr17_38815803_38858176_3" visibility=2
+chr17	PP	new_pep	38855210	38855251	0.9315	+	2	new_peptide_DQDLEPGAPSMGAK
+chr17	PP	new_pp	38815803	38858176	0.9315	+	2	CHR17_38815803_38858176_3

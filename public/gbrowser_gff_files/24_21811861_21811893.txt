@@ -1,0 +1,5 @@
+
+browser position chr9:21791961-21815429
+track name=annotation_734 description="annotation for chr9_21791961_21815429_2" visibility=2
+chr9	PP	new_pep	21811861	21811893	0.7579	+	1	new_peptide_EAEAAHGTVTR
+chr9	PP	new_pp	21791961	21815429	0.7579	+	1	CHR9_21791961_21815429_2

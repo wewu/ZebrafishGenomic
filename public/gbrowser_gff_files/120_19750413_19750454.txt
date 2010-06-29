@@ -1,0 +1,5 @@
+
+browser position chr5:19734671-19782764
+track name=annotation_553 description="annotation for chr5_19734671_19782764_2" visibility=2
+chr5	PP	new_pep	19750413	19750454	0.8146	+	1	new_peptide_GSPNVCPMCDMMSD
+chr5	PP	new_pp	19734671	19782764	0.8146	+	1	CHR5_19734671_19782764_2

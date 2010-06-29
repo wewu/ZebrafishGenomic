@@ -1,0 +1,5 @@
+
+browser position chr2:46025408-46051489
+track name=annotation_14000 description="annotation for chr2_46025408_46051489_4" visibility=2
+chr2	PP	new_pep	46047857	46047937	1	-	3	new_peptide_DGSGFLINLIDSPGHVDFSSEVTAALR
+chr2	PP	new_pp	46025408	46051489	1	-	3	CHR2_46025408_46051489_4

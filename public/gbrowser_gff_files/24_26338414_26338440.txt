@@ -1,0 +1,5 @@
+
+browser position chr6:26336451-26341444
+track name=annotation_10496 description="annotation for chr6_26336451_26341444_2" visibility=2
+chr6	PP	new_pep	26338414	26338440	0.8948	+	1	new_peptide_LVLQIDNAR
+chr6	PP	new_pp	26336451	26341444	0.8948	+	1	CHR6_26336451_26341444_2

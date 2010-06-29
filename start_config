@@ -1,0 +1,19 @@
+--- 
+:docroot: public
+:pid_file: /opt/www/rails_apps/zebrafishgenomic/log/mongrel.pid
+:cwd: /opt/www/rails_apps/zebrafishgenomic
+:log_file: /opt/www/rails_apps/zebrafishgenomic/log/mongrel.log
+:mime_map: 
+:group: apache
+:throttle: 0
+:prefix: /zebrafishgenomic
+:timeout: 60
+:host: 0.0.0.0
+:debug: false
+:num_processors: 
+:config_script: 
+:includes: 
+:port: "8000"
+:user: apache
+:daemon: true
+:environment: production

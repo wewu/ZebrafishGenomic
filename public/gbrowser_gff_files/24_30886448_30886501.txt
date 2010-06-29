@@ -1,0 +1,5 @@
+
+browser position chr22:30705423-30927831
+track name=annotation_10655 description="annotation for chr22_30705423_30927831_3" visibility=2
+chr22	PP	new_pep	30886448	30886501	0.8195	+	2	new_peptide_LVCMNNSEVCADSES*TR
+chr22	PP	new_pp	30705423	30927831	0.8195	+	2	CHR22_30705423_30927831_3

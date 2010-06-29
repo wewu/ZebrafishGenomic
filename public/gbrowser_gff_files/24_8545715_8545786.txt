@@ -1,0 +1,5 @@
+
+browser position chr16:8536916-8557677
+track name=annotation_300 description="annotation for chr16_8536916_8557677_6" visibility=2
+chr16	PP	new_pep	8545715	8545786	1	-	5	new_peptide_AACLAALSEPETLTDFWSSAVQAK
+chr16	PP	new_pp	8536916	8557677	1	-	5	CHR16_8536916_8557677_6

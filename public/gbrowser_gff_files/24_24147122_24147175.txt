@@ -1,0 +1,5 @@
+
+browser position chr19:24122712-24215304
+track name=annotation_10164 description="annotation for chr19_24122712_24215304_3" visibility=2
+chr19	PP	new_pep	24147122	24147175	1	+	2	new_peptide_KSSTPPSVTAWFEDVMFF
+chr19	PP	new_pp	24122712	24215304	1	+	2	CHR19_24122712_24215304_3

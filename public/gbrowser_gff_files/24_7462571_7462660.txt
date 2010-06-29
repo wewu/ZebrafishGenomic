@@ -1,0 +1,5 @@
+
+browser position chr21:7357812-7514722
+track name=annotation_246 description="annotation for chr21_7357812_7514722_4" visibility=2
+chr21	PP	new_pep	7462571	7462660	0.924	-	3	new_peptide_L*RFIILITVAFLSTRTSLAILL*PLASIR
+chr21	PP	new_pp	7357812	7514722	0.924	-	3	CHR21_7357812_7514722_4

@@ -1,0 +1,5 @@
+
+browser position chr3:874300-903150
+track name=annotation_5 description="annotation for chr3_874300_903150_5" visibility=2
+chr3	PP	new_pep	878661	878696	0.9674	-	4	new_peptide_DQSAVTDMSSLK
+chr3	PP	new_pp	874300	903150	0.9674	-	4	CHR3_874300_903150_5

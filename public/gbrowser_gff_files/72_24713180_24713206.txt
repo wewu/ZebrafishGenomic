@@ -1,0 +1,5 @@
+
+browser position chr5:24684933-24745999
+track name=annotation_251 description="annotation for chr5_24684933_24745999_4" visibility=2
+chr5	PP	new_pep	24713180	24713206	0.9793	-	3	new_peptide_DCPCDECCT
+chr5	PP	new_pp	24684933	24745999	0.9793	-	3	CHR5_24684933_24745999_4

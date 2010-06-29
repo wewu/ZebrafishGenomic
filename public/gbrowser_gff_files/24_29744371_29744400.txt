@@ -1,0 +1,5 @@
+
+browser position chr10:29739187-29745038
+track name=annotation_10612 description="annotation for chr10_29739187_29745038_1" visibility=2
+chr10	PP	new_pep	29744371	29744400	0.9055	+	0	new_peptide_KGEDFVANMK
+chr10	PP	new_pp	29739187	29745038	0.9055	+	0	CHR10_29739187_29745038_1

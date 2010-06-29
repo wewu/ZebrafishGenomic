@@ -1,0 +1,5 @@
+
+browser position chr5:24034516-24046403
+track name=annotation_9975 description="annotation for chr5_24034516_24046403_5" visibility=2
+chr5	PP	new_pep	24038723	24038746	0.9666	-	4	new_peptide_SLSTELFK
+chr5	PP	new_pp	24034516	24046403	0.9666	-	4	CHR5_24034516_24046403_5

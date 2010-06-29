@@ -1,0 +1,5 @@
+
+browser position chr10:25951237-26122858
+track name=annotation_15 description="annotation for chr10_25951237_26122858_6" visibility=2
+chr10	PP	new_pep	25967538	25967564	0.8009	-	5	new_peptide_*QNGCCCCC
+chr10	PP	new_pp	25951237	26122858	0.8009	-	5	CHR10_25951237_26122858_6

@@ -1,0 +1,31 @@
+== ZebraFish proteomics project website
+
+The site is built on top of a BioSQL like schema and 
+the excellent Ruby on Rails (RoR) webapp framework. I'll rely on that 
+project to document the view and contoller logic, since it is 
+largely part of the public domain and easily accessible.
+
+Where the implementation has strayed from a CRUD application 
+(e.g. the image manipulation) we will document those classes 
+in the RDoc of the class.
+
+The database install procedure and schema are documented in README.db
+
+
+== Install and Usage
+To use the site "as-is" install Ruby and RoR as per their instructions. 
+You will also need the following gems:
+
+ruby 1.8.4 (not other versions, esp 1.8.5)
+rails 1.1.6
+mysql 2.7
+...
+
+You can use the webrick server as any other rails application, 
+but we recommend the mongrel gem for running the application 
+for longer periods of time.
+
+Have fun!
+
+
+

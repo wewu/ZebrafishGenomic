@@ -1,0 +1,5 @@
+
+browser position chr11:20882819-20920260
+track name=annotation_723 description="annotation for chr11_20882819_20920260_6" visibility=2
+chr11	PP	new_pep	20889347	20889379	0.8629	-	5	new_peptide_SE*HNPLTARR
+chr11	PP	new_pp	20882819	20920260	0.8629	-	5	CHR11_20882819_20920260_6

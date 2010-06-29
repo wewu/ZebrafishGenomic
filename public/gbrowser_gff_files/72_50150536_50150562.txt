@@ -1,0 +1,5 @@
+
+browser position chr1:50138942-50164456
+track name=annotation_8 description="annotation for chr1_50138942_50164456_5" visibility=2
+chr1	PP	new_pep	50150536	50150562	0.8448	-	4	new_peptide_CVCGCGCGC
+chr1	PP	new_pp	50138942	50164456	0.8448	-	4	CHR1_50138942_50164456_5

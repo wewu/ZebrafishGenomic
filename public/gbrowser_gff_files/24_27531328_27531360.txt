@@ -1,0 +1,5 @@
+
+browser position chr20:27528122-27542384
+track name=annotation_10526 description="annotation for chr20_27528122_27542384_6" visibility=2
+chr20	PP	new_pep	27531328	27531360	0.8074	-	5	new_peptide_TNEVSSCASSR
+chr20	PP	new_pp	27528122	27542384	0.8074	-	5	CHR20_27528122_27542384_6

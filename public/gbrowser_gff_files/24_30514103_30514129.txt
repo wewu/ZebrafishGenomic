@@ -1,0 +1,5 @@
+
+browser position chr4:30511078-30532772
+track name=annotation_10646 description="annotation for chr4_30511078_30532772_2" visibility=2
+chr4	PP	new_pep	30514103	30514129	0.8829	+	1	new_peptide_*RNALYTIK
+chr4	PP	new_pp	30511078	30532772	0.8829	+	1	CHR4_30511078_30532772_2

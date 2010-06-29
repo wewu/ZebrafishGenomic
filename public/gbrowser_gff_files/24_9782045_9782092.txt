@@ -1,0 +1,5 @@
+
+browser position chr20:9752722-9793759
+track name=annotation_314 description="annotation for chr20_9752722_9793759_4" visibility=2
+chr20	PP	new_pep	9782045	9782092	0.7726	-	3	new_peptide_KPQYNQAYF*EEYLLK
+chr20	PP	new_pp	9752722	9793759	0.7726	-	3	CHR20_9752722_9793759_4

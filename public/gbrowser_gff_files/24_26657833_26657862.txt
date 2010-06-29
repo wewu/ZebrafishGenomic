@@ -1,0 +1,5 @@
+
+browser position chr1:26644941-26676188
+track name=annotation_10516 description="annotation for chr1_26644941_26676188_6" visibility=2
+chr1	PP	new_pep	26657833	26657862	0.7846	-	5	new_peptide_KSLIPPSIIK
+chr1	PP	new_pp	26644941	26676188	0.7846	-	5	CHR1_26644941_26676188_6

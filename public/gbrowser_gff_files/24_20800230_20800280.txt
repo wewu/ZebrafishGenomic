@@ -1,0 +1,5 @@
+
+browser position chr17:20795109-20867339
+track name=annotation_722 description="annotation for chr17_20795109_20867339_1" visibility=2
+chr17	PP	new_pep	20800230	20800280	0.7993	+	0	new_peptide_YEC*LIISLDSQQP*GR
+chr17	PP	new_pp	20795109	20867339	0.7993	+	0	CHR17_20795109_20867339_1

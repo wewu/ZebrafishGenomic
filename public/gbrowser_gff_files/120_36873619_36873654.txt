@@ -1,0 +1,5 @@
+
+browser position chr19:36870625-36874455
+track name=annotation_381 description="annotation for chr19_36870625_36874455_4" visibility=2
+chr19	PP	new_pep	36873619	36873654	1	-	3	new_peptide_ILFIIMIRKMLK
+chr19	PP	new_pp	36870625	36874455	1	-	3	CHR19_36870625_36874455_4

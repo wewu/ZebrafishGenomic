@@ -1,0 +1,5 @@
+
+browser position chr18:28464785-28777706
+track name=annotation_10592 description="annotation for chr18_28464785_28777706_1" visibility=2
+chr18	PP	new_pep	28662809	28662877	0.8726	+	0	new_peptide_CPSAGTSAIVAMTPLARALPAWR
+chr18	PP	new_pp	28464785	28777706	0.8726	+	0	CHR18_28464785_28777706_1

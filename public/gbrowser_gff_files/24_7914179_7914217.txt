@@ -1,0 +1,5 @@
+
+browser position chr23:7911148-7915045
+track name=annotation_284 description="annotation for chr23_7911148_7915045_4" visibility=2
+chr23	PP	new_pep	7914179	7914217	0.7958	-	3	new_peptide_KANSPGSSVIPAR
+chr23	PP	new_pp	7911148	7915045	0.7958	-	3	CHR23_7911148_7915045_4

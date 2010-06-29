@@ -1,0 +1,5 @@
+
+browser position chr2:29007695-29098266
+track name=annotation_10599 description="annotation for chr2_29007695_29098266_1" visibility=2
+chr2	PP	new_pep	29073581	29073607	0.8322	+	0	new_peptide_VP*QPFINK
+chr2	PP	new_pp	29007695	29098266	0.8322	+	0	CHR2_29007695_29098266_1

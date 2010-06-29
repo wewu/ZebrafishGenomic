@@ -1,0 +1,5 @@
+
+browser position chr14:52183046-52189973
+track name=annotation_167 description="annotation for chr14_52183046_52189973_1" visibility=2
+chr14	PP	new_pep	52184852	52184893	1	+	0	new_peptide_CQEFTNECCNIQCC
+chr14	PP	new_pp	52183046	52189973	1	+	0	CHR14_52183046_52189973_1

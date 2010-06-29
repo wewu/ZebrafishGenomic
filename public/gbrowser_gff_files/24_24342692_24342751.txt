@@ -1,0 +1,5 @@
+
+browser position chr16:24342006-24343908
+track name=annotation_10165 description="annotation for chr16_24342006_24343908_3" visibility=2
+chr16	PP	new_pep	24342692	24342751	1	+	2	new_peptide_DEPKPQLEQLTDAFWSYVSK
+chr16	PP	new_pp	24342006	24343908	1	+	2	CHR16_24342006_24343908_3

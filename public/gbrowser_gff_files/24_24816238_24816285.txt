@@ -1,0 +1,5 @@
+
+browser position chr13:24813698-24819082
+track name=annotation_10247 description="annotation for chr13_24813698_24819082_5" visibility=2
+chr13	PP	new_pep	24816238	24816285	0.8171	-	4	new_peptide_FENEMATAASSSSLEK
+chr13	PP	new_pp	24813698	24819082	0.8171	-	4	CHR13_24813698_24819082_5

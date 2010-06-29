@@ -1,0 +1,5 @@
+
+browser position chr22:23253689-23264798
+track name=annotation_9551 description="annotation for chr22_23253689_23264798_5" visibility=2
+chr22	PP	new_pep	23260901	23260933	0.7779	-	4	new_peptide_MINDAATILPR
+chr22	PP	new_pp	23253689	23264798	0.7779	-	4	CHR22_23253689_23264798_5

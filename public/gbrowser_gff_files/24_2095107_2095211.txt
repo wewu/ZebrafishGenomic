@@ -1,0 +1,5 @@
+
+browser position chr16:2088810-2112087
+track name=annotation_97 description="annotation for chr16_2088810_2112087_5" visibility=2
+chr16	PP	new_pep	2095107	2095211	0.8776	-	4	new_peptide_VAAGVLCELAQDKEAAEAIEAEGATAPLTELLHSR
+chr16	PP	new_pp	2088810	2112087	0.8776	-	4	CHR16_2088810_2112087_5

@@ -1,0 +1,5 @@
+
+browser position chr6:27592978-27609475
+track name=annotation_10530 description="annotation for chr6_27592978_27609475_4" visibility=2
+chr6	PP	new_pep	27601925	27601948	0.9666	-	3	new_peptide_SLSTELFK
+chr6	PP	new_pp	27592978	27609475	0.9666	-	3	CHR6_27592978_27609475_4

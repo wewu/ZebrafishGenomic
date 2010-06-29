@@ -1,0 +1,5 @@
+
+browser position chr21:36366077-36370368
+track name=annotation_13702 description="annotation for chr21_36366077_36370368_2" visibility=2
+chr21	PP	new_pep	36369681	36369716	0.9756	+	1	new_peptide_CKELGITALHIK
+chr21	PP	new_pp	36366077	36370368	0.9756	+	1	CHR21_36366077_36370368_2

@@ -1,0 +1,5 @@
+
+browser position chr25:30013980-30051310
+track name=annotation_10636 description="annotation for chr25_30013980_30051310_3" visibility=2
+chr25	PP	new_pep	30025736	30025801	0.9856	+	2	new_peptide_*GRIWVQMNH*TIHLGVAGIIR
+chr25	PP	new_pp	30013980	30051310	0.9856	+	2	CHR25_30013980_30051310_3

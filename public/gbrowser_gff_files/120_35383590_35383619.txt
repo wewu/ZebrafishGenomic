@@ -1,0 +1,5 @@
+
+browser position chr6:35352171-35387649
+track name=annotation_592 description="annotation for chr6_35352171_35387649_1" visibility=2
+chr6	PP	new_pep	35383590	35383619	0.9317	+	0	new_peptide_GVDADDGACR
+chr6	PP	new_pp	35352171	35387649	0.9317	+	0	CHR6_35352171_35387649_1

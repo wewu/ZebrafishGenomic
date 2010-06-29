@@ -1,0 +1,5 @@
+
+browser position chr13:34076724-34092996
+track name=annotation_13547 description="annotation for chr13_34076724_34092996_1" visibility=2
+chr13	PP	new_pep	34080885	34080926	0.8726	+	0	new_peptide_ARPEFMLPVHFYGR
+chr13	PP	new_pp	34076724	34092996	0.8726	+	0	CHR13_34076724_34092996_1

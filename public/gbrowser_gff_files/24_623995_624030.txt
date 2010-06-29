@@ -1,0 +1,5 @@
+
+browser position chr17:618164-624556
+track name=annotation_1 description="annotation for chr17_618164_624556_5" visibility=2
+chr17	PP	new_pep	623995	624030	0.7613	-	4	new_peptide_QLQNSQY*AIKK
+chr17	PP	new_pp	618164	624556	0.7613	-	4	CHR17_618164_624556_5

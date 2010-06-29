@@ -1,0 +1,5 @@
+
+browser position chr13:7913501-7917918
+track name=annotation_285 description="annotation for chr13_7913501_7917918_4" visibility=2
+chr13	PP	new_pep	7915870	7915902	0.9072	-	3	new_peptide_NLMLS*QSHIK
+chr13	PP	new_pp	7913501	7917918	0.9072	-	3	CHR13_7913501_7917918_4

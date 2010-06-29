@@ -1,0 +1,5 @@
+
+browser position chr23:16578435-16612264
+track name=annotation_553 description="annotation for chr23_16578435_16612264_2" visibility=2
+chr23	PP	new_pep	16592854	16592886	0.98	+	1	new_peptide_DLDDLEITLAK
+chr23	PP	new_pp	16578435	16612264	0.98	+	1	CHR23_16578435_16612264_2

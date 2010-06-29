@@ -1,0 +1,5 @@
+
+browser position chr25:20068655-20107096
+track name=annotation_705 description="annotation for chr25_20068655_20107096_5" visibility=2
+chr25	PP	new_pep	20103658	20103684	0.9152	-	4	new_peptide_K*INE*PKK
+chr25	PP	new_pp	20068655	20107096	0.9152	-	4	CHR25_20068655_20107096_5

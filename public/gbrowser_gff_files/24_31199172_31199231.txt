@@ -1,0 +1,5 @@
+
+browser position chr3:31196602-31200199
+track name=annotation_12464 description="annotation for chr3_31196602_31200199_6" visibility=2
+chr3	PP	new_pep	31199172	31199231	0.9925	-	5	new_peptide_ISLGLPVGAVINCADNTGKK
+chr3	PP	new_pp	31196602	31200199	0.9925	-	5	CHR3_31196602_31200199_6

@@ -1,0 +1,5 @@
+
+browser position chr22:23088998-23132792
+track name=annotation_2784 description="annotation for chr22_23088998_23132792_6" visibility=2
+chr22	PP	new_pep	23104525	23104575	1	-	5	new_peptide_EAEPSVALVSSLAGALR
+chr22	PP	new_pp	23088998	23132792	1	-	5	CHR22_23088998_23132792_6

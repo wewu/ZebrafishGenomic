@@ -1,0 +1,5 @@
+
+browser position chr19:4991576-5040618
+track name=annotation_189 description="annotation for chr19_4991576_5040618_6" visibility=2
+chr19	PP	new_pep	5018381	5018422	0.9563	-	5	new_peptide_HKSNTMQMSTLP*K
+chr19	PP	new_pp	4991576	5040618	0.9563	-	5	CHR19_4991576_5040618_6

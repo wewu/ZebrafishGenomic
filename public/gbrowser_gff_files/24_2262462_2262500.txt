@@ -1,0 +1,5 @@
+
+browser position chr17:2260252-2265062
+track name=annotation_107 description="annotation for chr17_2260252_2265062_4" visibility=2
+chr17	PP	new_pep	2262462	2262500	0.9675	-	3	new_peptide_DLDAAILVGSMPR
+chr17	PP	new_pp	2260252	2265062	0.9675	-	3	CHR17_2260252_2265062_4

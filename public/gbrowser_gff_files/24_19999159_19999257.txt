@@ -1,0 +1,5 @@
+
+browser position chr21:19997264-20012233
+track name=annotation_703 description="annotation for chr21_19997264_20012233_5" visibility=2
+chr21	PP	new_pep	19999159	19999257	0.9796	-	4	new_peptide_NSLLLAPMPTASTAQILGNNESIEPYTSNIYTR
+chr21	PP	new_pp	19997264	20012233	0.9796	-	4	CHR21_19997264_20012233_5

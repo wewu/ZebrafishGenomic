@@ -1,0 +1,5 @@
+
+browser position chr9:41751177-41783682
+track name=annotation_13823 description="annotation for chr9_41751177_41783682_6" visibility=2
+chr9	PP	new_pep	41755244	41755300	0.7747	-	5	new_peptide_DNTINLIHTFRDYLHYHIK
+chr9	PP	new_pp	41751177	41783682	0.7747	-	5	CHR9_41751177_41783682_6

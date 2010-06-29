@@ -1,0 +1,5 @@
+
+browser position chr13:14805947-14813600
+track name=annotation_500 description="annotation for chr13_14805947_14813600_4" visibility=2
+chr13	PP	new_pep	14808657	14808683	0.9478	-	3	new_peptide_KLLEGEESR
+chr13	PP	new_pp	14805947	14813600	0.9478	-	3	CHR13_14805947_14813600_4

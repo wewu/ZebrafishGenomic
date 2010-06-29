@@ -1,0 +1,39 @@
+<% hlib = HtmlLib.new %>
+
+<% 
+  title = ""
+  if (@idval.eql?("lcms"))       then title = "Protein Identifications from IPI Database Search";
+  elsif (@idval.eql?("peptide")) then title = "Peptide Identifications from Genomic Database Search";           
+  elsif (@idval.eql?("query"))   then title = "Query";                  
+  end
+%>
+
+
+<%= form_tag :controller => "bioentries" , :action => 'goto_content', :id => @idval, :keywords => @keywords, :curpage => @curpage %>
+
+<h1><%= title%></h1>
+
+<% if (@idval.eql?("lcms") || @idval.eql?("query")) %>
+   <%= submit_tag "Show Peptides" %><br><br>
+<% end %>
+
+<% recrows = "" %>
+<table class="data"  border=1>
+   <% if (@idval.eql?("lcms"))  
+         recrows = hlib.lcms_table(@bioentries, @ipiarr, "")
+         
+      elsif (@idval.eql?("peptide"))   
+         recrows = hlib.peptide_genomedb_table(@bioentries)
+
+      elsif (@idval.eql?("query"))      
+         recrows = hlib.lcms_table(@bioentries, @ipiarr, @keywords)
+      end            
+   %>  
+
+   <%= recrows %>
+</table>
+
+<%= will_paginate @bioentries %>
+
+
+</form>

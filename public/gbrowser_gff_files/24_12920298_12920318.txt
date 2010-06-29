@@ -1,0 +1,5 @@
+
+browser position chr4:12901778-12967732
+track name=annotation_379 description="annotation for chr4_12901778_12967732_6" visibility=2
+chr4	PP	new_pep	12920298	12920318	0.9293	-	5	new_peptide_ESVAGMK
+chr4	PP	new_pp	12901778	12967732	0.9293	-	5	CHR4_12901778_12967732_6

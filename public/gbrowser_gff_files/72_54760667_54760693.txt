@@ -1,0 +1,5 @@
+
+browser position chr3:54732662-54780139
+track name=annotation_231 description="annotation for chr3_54732662_54780139_4" visibility=2
+chr3	PP	new_pep	54760667	54760693	0.9341	-	3	new_peptide_CMCE*MCMD
+chr3	PP	new_pp	54732662	54780139	0.9341	-	3	CHR3_54732662_54780139_4

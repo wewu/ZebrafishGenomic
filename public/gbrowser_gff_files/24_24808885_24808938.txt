@@ -1,0 +1,5 @@
+
+browser position chr13:24804816-24810495
+track name=annotation_10245 description="annotation for chr13_24804816_24810495_2" visibility=2
+chr13	PP	new_pep	24808885	24808938	0.8773	+	1	new_peptide_KSLGQLAFLCGVCMVAPR
+chr13	PP	new_pp	24804816	24810495	0.8773	+	1	CHR13_24804816_24810495_2

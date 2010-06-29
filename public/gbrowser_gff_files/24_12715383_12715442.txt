@@ -1,0 +1,5 @@
+
+browser position chr22:12714960-12716314
+track name=annotation_374 description="annotation for chr22_12714960_12716314_6" visibility=2
+chr22	PP	new_pep	12715383	12715442	0.98	-	5	new_peptide_SGIAQHELNHALGFYHEQSR
+chr22	PP	new_pp	12714960	12716314	0.98	-	5	CHR22_12714960_12716314_6

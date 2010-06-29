@@ -1,0 +1,13 @@
+   <frameset rows="70,*" frameborder="0">
+      <frame src= "<%= url_for :controller => 'bioentries', :action => 'goto_logo'%>"  scrolling ="no"> 
+      <frameset cols="200, *">
+         <frameset rows="*,150">
+             <frame name="naviframe" src= "<%= url_for :controller => 'bioentries', :action => 'goto_navbar'%>" noresize scrolling="no"> 
+             <frame name="contactframe" src= "<%= url_for :controller => 'bioentries', :action => 'goto_contact'%>" noresize  scrolling ="no"> 
+         </frameset>
+         <frame name="contentframe" src= "<%= url_for :controller => 'bioentries', :action => 'goto_content', :id =>'intro' %>" noresize> 
+      </frameset> 
+   </frameset>
+
+
+

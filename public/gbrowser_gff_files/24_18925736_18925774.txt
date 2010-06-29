@@ -1,0 +1,5 @@
+
+browser position chr8:18917763-18927654
+track name=annotation_638 description="annotation for chr8_18917763_18927654_6" visibility=2
+chr8	PP	new_pep	18925736	18925774	0.8443	-	5	new_peptide_SHDITNCHNLIKK
+chr8	PP	new_pp	18917763	18927654	0.8443	-	5	CHR8_18917763_18927654_6

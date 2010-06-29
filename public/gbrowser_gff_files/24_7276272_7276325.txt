@@ -1,0 +1,5 @@
+
+browser position chr15:7187905-7300030
+track name=annotation_240 description="annotation for chr15_7187905_7300030_3" visibility=2
+chr15	PP	new_pep	7276272	7276325	0.9026	+	2	new_peptide_QLMLLTAALTGLIIQCKR
+chr15	PP	new_pp	7187905	7300030	0.9026	+	2	CHR15_7187905_7300030_3

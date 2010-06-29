@@ -1,0 +1,5 @@
+
+browser position chr3:6981352-6997357
+track name=annotation_237 description="annotation for chr3_6981352_6997357_5" visibility=2
+chr3	PP	new_pep	6985528	6985587	0.9965	-	4	new_peptide_ILAIDPSLPVKECAEDYASK
+chr3	PP	new_pp	6981352	6997357	0.9965	-	4	CHR3_6981352_6997357_5

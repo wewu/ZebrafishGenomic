@@ -1,0 +1,5 @@
+
+browser position chr14:17839943-17848749
+track name=annotation_611 description="annotation for chr14_17839943_17848749_1" visibility=2
+chr14	PP	new_pep	17845070	17845150	1	+	0	new_peptide_ALSDHHVYLEGTLLKPNMVTAGHSCTK
+chr14	PP	new_pp	17839943	17848749	1	+	0	CHR14_17839943_17848749_1

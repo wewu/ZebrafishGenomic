@@ -1,0 +1,5 @@
+
+browser position chr2:26792054-26821232
+track name=annotation_10519 description="annotation for chr2_26792054_26821232_4" visibility=2
+chr2	PP	new_pep	26805711	26805752	0.7791	-	3	new_peptide_SEVI*CCFQ*YGNK
+chr2	PP	new_pp	26792054	26821232	0.7791	-	3	CHR2_26792054_26821232_4

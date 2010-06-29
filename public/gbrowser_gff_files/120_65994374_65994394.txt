@@ -1,0 +1,5 @@
+
+browser position chr7:65988248-66006937
+track name=annotation_795 description="annotation for chr7_65988248_66006937_1" visibility=2
+chr7	PP	new_pep	65994374	65994394	0.9759	+	0	new_peptide_ESCCCCC
+chr7	PP	new_pp	65988248	66006937	0.9759	+	0	CHR7_65988248_66006937_1

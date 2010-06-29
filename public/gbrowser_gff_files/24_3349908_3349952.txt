@@ -1,0 +1,5 @@
+
+browser position chr7:3339315-3355658
+track name=annotation_139 description="annotation for chr7_3339315_3355658_1" visibility=2
+chr7	PP	new_pep	3349908	3349952	0.8356	+	0	new_peptide_TLTSCFAASSSTH*R
+chr7	PP	new_pp	3339315	3355658	0.8356	+	0	CHR7_3339315_3355658_1

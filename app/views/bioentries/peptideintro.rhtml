@@ -1,0 +1,18 @@
+<% hlib = HtmlLib.new %>
+
+<h3>Introduction</h3>
+
+<b>Goal for New Peptide Identifications</b>
+  
+<dd>
+   <li>  Find out new peptide identifications which are not in current Zebrafish gene models
+</dd><br><br>
+
+<b> Procedure </b>
+<dd>
+   <li>Search the raw data on existing IPI database
+   <li>Search the same data on a new protein database we created directly from the Zebrafish genome
+   <li>Compare the two search results to see if there are new peptide identifications only in the 2nd search which are in the intron or cross intron and exon boundaries
+</dd><br><br>
+
+<%= hlib.peptidesummary_table %>

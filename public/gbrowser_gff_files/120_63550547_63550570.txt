@@ -1,0 +1,5 @@
+
+browser position chr5:63535761-63582735
+track name=annotation_548 description="annotation for chr5_63535761_63582735_6" visibility=2
+chr5	PP	new_pep	63550547	63550570	0.9759	-	5	new_peptide_ESCCC*CC
+chr5	PP	new_pp	63535761	63582735	0.9759	-	5	CHR5_63535761_63582735_6
